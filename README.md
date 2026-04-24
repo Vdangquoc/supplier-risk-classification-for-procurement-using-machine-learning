@@ -1,6 +1,6 @@
 # supplier-risk-classification-for-procurement-using-machine-learning
 
-## s Objective
+## Objective
 This project applies a machine learning classification model to identify supplier risk levels based on operational and financial indicators.
 
 The main purpose is to support procurement decision-making by helping teams recognize suppliers that may require closer monitoring, further review, or more cautious sourcing decisions.
