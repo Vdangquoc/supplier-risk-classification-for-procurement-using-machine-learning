@@ -43,7 +43,8 @@ If a supplier record is classified as higher risk, teams can use that result as 
 - additional validation before sourcing decisions
 - stronger monitoring of delivery and compliance performance
 
-![Confusion Matrix](confusion_matrix.png)
+[Top Suppliers by Weighted Score](top_suppliers_weighted_score.png)
+)
 
 ---
 
