@@ -85,8 +85,8 @@ Although the model performs strongly on this dataset, real-world supplier risk c
 
 ## Files
 - `supplier_risk.csv` – source dataset
-- `supplier_risk_classification.ipynb` – machine learning notebook
-- `confusion_matrix.png` – classification result visualization
+- `supplier-risk-classification-for-procurement-using-machine-learning.ipynb` – machine learning notebook
+- `top_suppliers_weighted_score.png` – classification result visualization
 - `feature_importance.png` – model interpretation chart
 
 ## Tools Used
